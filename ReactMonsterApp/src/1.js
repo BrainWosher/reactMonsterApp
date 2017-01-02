@@ -1,1 +1,1 @@
-let addNumber = (a, d) => a + b;
+let deductNumber = (a, d) => a - b;
