@@ -1,1 +1,1 @@
-let getPerson = (name, surname) => name + " " + surname;
+let getPerson = (name, surname) => console.log(' name + " " + surname');
